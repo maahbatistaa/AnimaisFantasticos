@@ -4,10 +4,11 @@ Project in progress, aiming to practice with the JavaScript language
 
 ## :heavy_check_mark: Techniques and technologies used
 
-- ``Visual Studio Code``
+- ``HTML/CSS``
 - ``JavaScript``
+- ``Visual Studio Code``
 - ``Node.js``
-- ``DOM``
+- ``NPM``
 - ``Git``
 
 
